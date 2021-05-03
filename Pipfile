@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 jupyter = "*"
 kaggle = "*"
+numpy = "*"
+pandas = "*"
+sklearn = "*"
 
 [dev-packages]
 
