@@ -9,6 +9,7 @@ kaggle = "*"
 numpy = "*"
 pandas = "*"
 sklearn = "*"
+holoviews = "*"
 
 [dev-packages]
 
