@@ -11,6 +11,7 @@ pandas = "*"
 sklearn = "*"
 holoviews = "*"
 umap = "*"
+hvplot = "*"
 
 [dev-packages]
 
