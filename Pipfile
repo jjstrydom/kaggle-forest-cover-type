@@ -10,8 +10,8 @@ numpy = "*"
 pandas = "*"
 sklearn = "*"
 holoviews = "*"
-umap = "*"
 hvplot = "*"
+umap-learn = "*"
 
 [dev-packages]
 
